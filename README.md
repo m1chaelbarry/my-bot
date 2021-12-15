@@ -1,6 +1,6 @@
 Discord bot for calculating weighted average by my highschool rules
 
-make file config.json and type:
+make file `config.json` and type:
 ```
 {
 	"clientId": "<ID>",
